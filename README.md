@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there, I'm Abhrankan Chakrabarti 👋
 
-<!--
-**Abhrankan-Chakrabarti/Abhrankan-Chakrabarti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student who is passionate about mathematics, programming, and technology. I enjoy exploring new algorithms and solving challenging problems.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on optimizing code for generating almost isosceles Pythagorean triples.
+- 🌱 I’m currently learning about the ancient Egyptian civilization.
+- 💬 Ask me about almost isosceles Pythagorean triples, Python programming, or llama-cpp-python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me:
+
+- [My Website](https://abhrankan.w3spaces.com)
+- [My LinkedIn Profile](https://www.linkedin.com/in/abhrankan-chakrabarti-159460214/)
+- [My Twitter Profile](https://twitter.com/AbhrankanC)
+- Email: abhrankan@gmail.com
+
+### ⚡ Fun fact:
+
+I once calculated the first 10,000 digits of the golden ratio!
+
+### 📚 Some of my popular GitHub repositories:
+
+- [CppComplexCalculator](https://github.com/Abhrankan-Chakrabarti/CppComplexCalculator)
+- [Interactive-Matrix-Calculator](https://github.com/Abhrankan-Chakrabarti/Interactive-Matrix-Calculator)
+- [hangman](https://github.com/Abhrankan-Chakrabarti/hangman)
