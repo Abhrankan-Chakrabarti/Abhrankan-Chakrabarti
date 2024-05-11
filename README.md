@@ -19,6 +19,6 @@ I once calculated the first 10,000 digits of the golden ratio!
 
 ### 📚 Some of my popular GitHub repositories:
 
-- [almost-isosceles-pythagorean-triples](https://github.com/Abhrankan-Chakrabarti/almost-isosceles-pythagorean-triples)
+- [Almost Isosceles Pythagorean Triples Optimizer](https://github.com/Abhrankan-Chakrabarti/almost-isosceles-pythagorean-triples)
 - [Interactive-Matrix-Calculator](https://github.com/Abhrankan-Chakrabarti/Interactive-Matrix-Calculator)
-- [CppComplexCalculator](https://github.com/Abhrankan-Chakrabarti/CppComplexCalculator)
+- [Sum of Squares Calculator](https://github.com/Abhrankan-Chakrabarti/CppComplexCalculator)
