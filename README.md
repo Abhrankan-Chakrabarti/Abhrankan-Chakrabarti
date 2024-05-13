@@ -22,3 +22,4 @@ I once calculated the first 10,000 digits of the golden ratio!
 - [Almost Isosceles Pythagorean Triples Optimizer](https://github.com/Abhrankan-Chakrabarti/almost-isosceles-pythagorean-triples)
 - [Interactive Matrix Calculator](https://github.com/Abhrankan-Chakrabarti/Interactive-Matrix-Calculator)
 - [Complex Calculator](https://github.com/Abhrankan-Chakrabarti/ComplexCalculator)
+- [Java Math Utils](https://github.com/Abhrankan-Chakrabarti/java-math-utils)
