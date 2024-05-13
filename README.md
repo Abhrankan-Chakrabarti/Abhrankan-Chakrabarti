@@ -23,4 +23,3 @@ I once calculated the first 10,000 digits of the golden ratio!
 - [Interactive Matrix Calculator](https://github.com/Abhrankan-Chakrabarti/Interactive-Matrix-Calculator)
 - [Complex Calculator](https://github.com/Abhrankan-Chakrabarti/ComplexCalculator)
 - [Java Math Utils](https://github.com/Abhrankan-Chakrabarti/java-math-utils)
-- [Java Math Utils](https://github.com/Abhrankan-Chakrabarti/java-math-utils)
