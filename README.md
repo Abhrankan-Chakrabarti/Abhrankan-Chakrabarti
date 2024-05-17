@@ -2,7 +2,7 @@
 
 I'm a student who is passionate about mathematics, programming, and technology. I enjoy exploring new algorithms and solving challenging problems.
 
-- 🔭 I’ve already optimized code for generating almost isosceles Pythagorean triples.
+- 🔭 I’m currently working on a new Python project related to advanced numerical methods.
 - 🌱 I’m currently learning about the ancient Egyptian civilization.
 - 💬 Ask me about almost isosceles Pythagorean triples, Python programming, or llama-cpp-python.
 
