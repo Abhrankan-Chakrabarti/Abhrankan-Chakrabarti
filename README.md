@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.ibb.co/PzLB6fn/IMG-20210622-133515-2.jpg" alt="Profile Image" style="border-radius: 50%; width: 150px; height: 150px;">
 </div>
-# Hi there, I'm Abhrankan Chakrabarti 👋
+<h1 align="center">Hi there, I'm Abhrankan Chakrabarti 👋</h1>
 
 I'm a student who is passionate about mathematics, programming, and technology. I enjoy exploring new algorithms and solving challenging problems.
 
