@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi there, I'm Abhrankan Chakrabarti 👋</h1>
 
-I'm a student who is passionate about mathematics, programming, and technology. I enjoy exploring new algorithms and solving challenging problems.
+<h3 align="center">I'm a student who is passionate about mathematics, programming, and technology. I enjoy exploring new algorithms and solving challenging problems.</h3>
 
 - 🔭 I’m currently working on a new Python project related to advanced numerical methods.
 - 🌱 I’m currently learning about the ancient Egyptian civilization.
