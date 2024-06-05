@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/PzLB6fn/IMG-20210622-133515-2.jpg" alt="Profile Image" style="border-radius: 50%; width: 150px; height: 150px;">
+  <img src="https://camo.githubusercontent.com/861bb4c171fadbcbc1ed691cdec46ab85fbc7b7c88e20a6de4ea2560d8371779/68747470733a2f2f692e6962622e636f2f507a4c4236666e2f494d472d32303231303632322d3133333531352d322e6a7067" alt="Profile Image" style="border-radius: 50%; width: 150px; height: 150px;">
 </div>
 <h1 align="center">Hello World, I'm Abhrankan Chakrabarti 👋</h1>
 
