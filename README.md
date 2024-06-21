@@ -24,6 +24,15 @@ I'm on a thrilling journey through the realms of advanced numerical methods, alg
 
 Did you know? I once embarked on a mathematical odyssey to calculate the first 10,000 digits of the golden ratio! It was a journey that tested the limits of precision and my dedication to the beauty of numbers.
 
+## 📚 Blog
+
+### [Calculating π with Catalan Numbers: A Novel Approach](https://abhrankan-chakrabarti.github.io/mathematics/algorithms/2024/06/21/calculating-pi)
+*Date: June 21, 2024*
+
+Calculating the digits of π has been a topic of interest for mathematicians and computer scientists alike. In this post, I introduce a novel algorithm for π calculation that leverages Catalan numbers and fixed-point arithmetic.
+
+<!-- Add more blog posts as needed -->
+
 ### 📚 Highlighted Projects:
 
 - **[Code Runner](https://github.com/Abhrankan-Chakrabarti/code-runner)**: A web-based tool for running JavaScript code directly in your browser.
@@ -32,3 +41,16 @@ Did you know? I once embarked on a mathematical odyssey to calculate the first 1
 - **[Complex Calculator](https://github.com/Abhrankan-Chakrabarti/ComplexCalculator)**: Navigating the realm of complex numbers with precision and ease.
 - **[Java Math Utils](https://github.com/Abhrankan-Chakrabarti/java-math-utils)**: A collection of utility functions in Java that serve as the backbone for various mathematical computations.
 - **[Llama_CPP Chatbot](https://github.com/Abhrankan-Chakrabarti/llama_cpp_chatbot)**: Merging the power of C++ with advanced chatbot functionalities for seamless interactions.
+
+## 🛠️ Skills
+
+- C/C++
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+
+---
+
+© 2024 Abhrankan Chakrabarti. All rights reserved.
