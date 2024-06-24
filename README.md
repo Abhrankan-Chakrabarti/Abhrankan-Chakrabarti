@@ -36,6 +36,7 @@ Calculating the digits of π has been a topic of interest for mathematicians and
 ### 📚 Highlighted Projects:
 
 - **[Code Runner](https://github.com/Abhrankan-Chakrabarti/code-runner)**: A web-based tool for running JavaScript code directly in your browser.
+- **[Hangman](https://github.com/Abhrankan-Chakrabarti/hangman)**: A collection of Hangman game implementations: GUI with Python and Tkinter, command-line versions for Python 2 and 3, and a web-based version using HTML, CSS, and JavaScript.
 - **[Almost Isosceles Pythagorean Triples Optimizer](https://github.com/Abhrankan-Chakrabarti/almost-isosceles-pythagorean-triples)**: A deep dive into a unique mathematical challenge, blending algorithmic efficiency with the elegance of number theory.
 - **[Interactive Matrix Calculator](https://github.com/Abhrankan-Chakrabarti/Interactive-Matrix-Calculator)**: Simplifying complex matrix operations with an intuitive and user-friendly interface.
 - **[Complex Calculator](https://github.com/Abhrankan-Chakrabarti/ComplexCalculator)**: Navigating the realm of complex numbers with precision and ease.
