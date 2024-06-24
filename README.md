@@ -40,7 +40,7 @@ Calculating the digits of π has been a topic of interest for mathematicians and
 - **[Interactive Matrix Calculator](https://github.com/Abhrankan-Chakrabarti/Interactive-Matrix-Calculator)**: Simplifying complex matrix operations with an intuitive and user-friendly interface.
 - **[Complex Calculator](https://github.com/Abhrankan-Chakrabarti/ComplexCalculator)**: Navigating the realm of complex numbers with precision and ease.
 - **[Java Math Utils](https://github.com/Abhrankan-Chakrabarti/java-math-utils)**: A collection of utility functions in Java that serve as the backbone for various mathematical computations.
-- **[Llama_CPP Chatbot](https://github.com/Abhrankan-Chakrabarti/llama_cpp_chatbot)**: Merging the power of C++ with advanced chatbot functionalities for seamless interactions.
+- **[Llama_CPP Chatbot](https://github.com/Abhrankan-Chakrabarti/llama_cpp_chatbot)**: Interactive Python chatbot powered by the `llama_cpp` library for text generation, offering customizable responses based on a user-provided GGUF model file.
 
 ## 🛠️ Skills
 
