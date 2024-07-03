@@ -31,6 +31,11 @@ Did you know? I once embarked on a mathematical odyssey to calculate the first 1
 
 Calculating the digits of π has been a topic of interest for mathematicians and computer scientists alike. In this post, I introduce a novel algorithm for π calculation that leverages Catalan numbers and fixed-point arithmetic.
 
+### [Exploring Almost Isosceles Pythagorean Triples: An Ancient Mathematical Marvel](https://abhrankan-chakrabarti.github.io/mathematics/algorithms/2024/07/03/pythagorean-triples-exploration)
+*Date: July 3, 2024*
+
+Mathematics has always been a treasure trove of fascinating problems and elegant solutions. One such captivating concept is the almost isosceles Pythagorean triples. In this post, we will dive into what they are, their significance, and how they can be generated.
+
 <!-- Add more blog posts as needed -->
 
 ### 📚 Highlighted Projects:
