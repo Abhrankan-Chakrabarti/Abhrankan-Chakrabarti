@@ -36,6 +36,11 @@ Calculating the digits of π has been a topic of interest for mathematicians and
 
 Mathematics has always been a treasure trove of fascinating problems and elegant solutions. One such captivating concept is the almost isosceles Pythagorean triples. In this post, we will dive into what they are, their significance, and how they can be generated.
 
+### [Greek Mythology: Gods, Heroes, and Epic Tales](https://abhrankan-chakrabarti.github.io/mythology/2024/07/04/greek-mythology)
+*Date: July 4, 2024*
+
+Greek mythology is a rich tapestry of stories and characters that have captivated people for millennia. These myths offer insights into the ancient Greek worldview, their understanding of natural phenomena, and their cultural values. This section will explore some of the most significant gods, heroes, and myths from ancient Greece.
+
 <!-- Add more blog posts as needed -->
 
 ### 📚 Highlighted Projects:
