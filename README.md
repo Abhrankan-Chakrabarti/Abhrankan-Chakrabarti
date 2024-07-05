@@ -46,6 +46,11 @@ Greek mythology is a rich tapestry of stories and characters that have captivate
 
 Indian mythology is a rich and diverse collection of stories, traditions, and legends that have been passed down through generations in India. It includes a vast array of gods, goddesses, heroes, and mythical creatures, each with their own unique stories and significance. Indian mythology primarily draws from Hinduism but also includes influences from Buddhism, Jainism, and other regional traditions.
 
+### [Exploring Ancient Egyptian Civilization](https://abhrankan-chakrabarti.github.io/history/2024/07/05/ancient-egyptian-civilization)
+*Date: July 5, 2024*
+
+Ancient Egypt is one of the most fascinating and influential civilizations in human history. Spanning over 3,000 years, from approximately 3100 BCE to 30 BCE, Egypt’s history is marked by remarkable achievements in architecture, art, science, and governance. The civilization flourished along the Nile River, which provided fertile land and resources necessary for sustaining a complex society.
+
 <!-- Add more blog posts as needed -->
 
 ### 📚 Highlighted Projects:
