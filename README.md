@@ -41,6 +41,11 @@ Mathematics has always been a treasure trove of fascinating problems and elegant
 
 Greek mythology is a rich tapestry of stories and characters that have captivated people for millennia. These myths offer insights into the ancient Greek worldview, their understanding of natural phenomena, and their cultural values. This section will explore some of the most significant gods, heroes, and myths from ancient Greece.
 
+### [Indian Mythology: Gods, Heroes, and Epic Tales](https://abhrankan-chakrabarti.github.io/mythology/2024/07/05/indian-mythology)
+*Date: July 5, 2024*
+
+Indian mythology is a rich and diverse collection of stories, traditions, and legends that have been passed down through generations in India. It includes a vast array of gods, goddesses, heroes, and mythical creatures, each with their own unique stories and significance. Indian mythology primarily draws from Hinduism but also includes influences from Buddhism, Jainism, and other regional traditions.
+
 <!-- Add more blog posts as needed -->
 
 ### 📚 Highlighted Projects:
