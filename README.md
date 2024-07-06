@@ -81,6 +81,11 @@ Mathematics has a rich and extensive history that spans various cultures and cen
 
 Technological innovations have transformed the way we live, work, and communicate. Here are some of the key advancements that have significantly impacted our world.
 
+### [History of Physics](https://abhrankan-chakrabarti.github.io/2024/07/06/history-of-physics)
+*Date: July 6, 2024*
+
+Physics, the fundamental science of matter, energy, and their interactions, has a long and rich history. Here are some key milestones and contributions from different periods.
+
 <!-- Add more blog posts as needed -->
 
 ### 📚 Highlighted Projects:
