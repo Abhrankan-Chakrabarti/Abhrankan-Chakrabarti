@@ -71,6 +71,11 @@ Ancient Egyptian mythology is a rich tapestry of gods, goddesses, and mythologic
 
 The history of computers is a fascinating journey that spans centuries, highlighting key innovations and milestones that have shaped modern computing.
 
+### [History of Mathematics](https://abhrankan-chakrabarti.github.io/2024/07/06/history-of-mathematics)
+*Date: July 6, 2024*
+
+Mathematics has a rich and extensive history that spans various cultures and centuries. Here are some key milestones and contributions from different periods and regions.
+
 <!-- Add more blog posts as needed -->
 
 ### 📚 Highlighted Projects:
