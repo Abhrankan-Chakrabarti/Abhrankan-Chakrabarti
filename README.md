@@ -66,6 +66,11 @@ Ancient India, with its rich tapestry of cultures and traditions, made significa
 
 Ancient Egyptian mythology is a rich tapestry of gods, goddesses, and mythological tales that played a central role in the daily lives and spiritual beliefs of the ancient Egyptians. This mythology offers insights into their understanding of the cosmos, the afterlife, and the forces of nature.
 
+### [The History of Computers](https://abhrankan-chakrabarti.github.io/2024/07/06/the-history-of-computers)
+*Date: July 6, 2024*
+
+The history of computers is a fascinating journey that spans centuries, highlighting key innovations and milestones that have shaped modern computing.
+
 <!-- Add more blog posts as needed -->
 
 ### 📚 Highlighted Projects:
