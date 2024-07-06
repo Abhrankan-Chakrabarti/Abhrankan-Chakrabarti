@@ -61,6 +61,11 @@ Ancient Greece, known for its influential culture, remarkable contributions to p
 
 Ancient India, with its rich tapestry of cultures and traditions, made significant contributions to various fields including mathematics, science, literature, and philosophy. The civilization flourished in the Indian subcontinent and has left an enduring legacy that continues to influence modern society.
 
+### [Exploring Ancient Egyptian Mythology](https://abhrankan-chakrabarti.github.io/history/2024/07/06/ancient-egyptian-mythology)
+*Date: July 6, 2024*
+
+Ancient Egyptian mythology is a rich tapestry of gods, goddesses, and mythological tales that played a central role in the daily lives and spiritual beliefs of the ancient Egyptians. This mythology offers insights into their understanding of the cosmos, the afterlife, and the forces of nature.
+
 <!-- Add more blog posts as needed -->
 
 ### 📚 Highlighted Projects:
