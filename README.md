@@ -51,6 +51,11 @@ Indian mythology is a rich and diverse collection of stories, traditions, and le
 
 Ancient Egypt is one of the most fascinating and influential civilizations in human history. Spanning over 3,000 years, from approximately 3100 BCE to 30 BCE, Egypt’s history is marked by remarkable achievements in architecture, art, science, and governance. The civilization flourished along the Nile River, which provided fertile land and resources necessary for sustaining a complex society.
 
+### [Exploring Ancient Greek Civilization](https://abhrankan-chakrabarti.github.io/history/2024/07/06/ancient-greek-civilization)
+*Date: July 6, 2024*
+
+Ancient Greece, known for its influential culture, remarkable contributions to philosophy, science, and art, laid the foundations of Western civilization. Flourishing between the 8th century BCE and the end of antiquity (ca. 600 CE), Greek culture has profoundly shaped the world.
+
 <!-- Add more blog posts as needed -->
 
 ### 📚 Highlighted Projects:
