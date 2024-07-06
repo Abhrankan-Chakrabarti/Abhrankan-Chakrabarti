@@ -56,6 +56,11 @@ Ancient Egypt is one of the most fascinating and influential civilizations in hu
 
 Ancient Greece, known for its influential culture, remarkable contributions to philosophy, science, and art, laid the foundations of Western civilization. Flourishing between the 8th century BCE and the end of antiquity (ca. 600 CE), Greek culture has profoundly shaped the world.
 
+### [Exploring Ancient Indian Civilization](https://abhrankan-chakrabarti.github.io/history/2024/07/06/ancient-indian-civilization)
+*Date: July 6, 2024*
+
+Ancient India, with its rich tapestry of cultures and traditions, made significant contributions to various fields including mathematics, science, literature, and philosophy. The civilization flourished in the Indian subcontinent and has left an enduring legacy that continues to influence modern society.
+
 <!-- Add more blog posts as needed -->
 
 ### 📚 Highlighted Projects:
