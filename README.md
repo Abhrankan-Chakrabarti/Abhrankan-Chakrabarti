@@ -74,7 +74,7 @@ The history of computers is a fascinating journey that spans centuries, highligh
 ### [History of Mathematics](https://abhrankan-chakrabarti.github.io/2024/07/06/history-of-mathematics)
 *Date: July 6, 2024*
 
-Mathematics has a rich and extensive history that spans various cultures and centuries. Here are some key milestones and contributions from different periods and regions.
+Mathematics, the abstract science of number, quantity, and space, has a rich and fascinating history. Here are some key milestones and contributions from different periods.
 
 ### [Innovations in Technology](https://abhrankan-chakrabarti.github.io/2024/07/06/innovations-in-technology)
 *Date: July 6, 2024*
