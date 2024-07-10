@@ -91,6 +91,11 @@ Physics, the fundamental science of matter, energy, and their interactions, has 
 
 Chemistry, the scientific study of the properties, composition, and transformations of matter, has a rich and complex history. Here are some key milestones and contributions from different periods.
 
+### [History of Cryptography](https://abhrankan-chakrabarti.github.io/2024/07/10/history-of-cryptography.html)
+*Date: July 10, 2024*
+
+The history of cryptography traces back to ancient times, evolving through centuries to become an essential component of modern secure communications. From simple substitution ciphers used by ancient civilizations to the sophisticated algorithms employed in today's digital world, cryptography has played a crucial role in protecting sensitive information.
+
 <!-- Add more blog posts as needed -->
 
 ### 📚 Highlighted Projects:
