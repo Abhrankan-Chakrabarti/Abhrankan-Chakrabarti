@@ -86,6 +86,11 @@ Technological innovations have transformed the way we live, work, and communicat
 
 Physics, the fundamental science of matter, energy, and their interactions, has a long and rich history. Here are some key milestones and contributions from different periods.
 
+### [History of Chemistry](https://abhrankan-chakrabarti.github.io/2024/07/10/history-of-chemistry)
+*Date: July 10, 2024*
+
+Chemistry, the scientific study of the properties, composition, and transformations of matter, has a rich and complex history. Here are some key milestones and contributions from different periods.
+
 <!-- Add more blog posts as needed -->
 
 ### 📚 Highlighted Projects:
