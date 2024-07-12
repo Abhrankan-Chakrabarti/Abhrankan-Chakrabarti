@@ -101,6 +101,11 @@ The history of cryptography traces back to ancient times, evolving through centu
 
 Astronomy, the study of celestial objects and phenomena, has fascinated humans for millennia. This section delves into the key developments and figures in the history of astronomy, from ancient civilizations to contemporary discoveries.
 
+### [History of Ancient Civilizations](https://abhrankan-chakrabarti.github.io/2024/07/12/history-of-ancient-civilizations.html)
+*Date: July 12, 2024*
+
+The study of ancient civilizations reveals the rich and varied tapestry of human history. These civilizations laid the foundations for modern society through their innovations in governance, technology, and culture. This section delves into some of the most influential ancient civilizations.
+
 <!-- Add more blog posts as needed -->
 
 ### 📚 Highlighted Projects:
