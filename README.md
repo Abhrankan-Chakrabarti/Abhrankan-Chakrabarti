@@ -96,6 +96,11 @@ Chemistry, the scientific study of the properties, composition, and transformati
 
 The history of cryptography traces back to ancient times, evolving through centuries to become an essential component of modern secure communications. From simple substitution ciphers used by ancient civilizations to the sophisticated algorithms employed in today's digital world, cryptography has played a crucial role in protecting sensitive information.
 
+### [History of Astronomy](https://abhrankan-chakrabarti.github.io/2024/07/11/history-of-astronomy.html)
+*Date: July 11, 2024*
+
+Astronomy, the study of celestial objects and phenomena, has fascinated humans for millennia. This section delves into the key developments and figures in the history of astronomy, from ancient civilizations to contemporary discoveries.
+
 <!-- Add more blog posts as needed -->
 
 ### 📚 Highlighted Projects:
