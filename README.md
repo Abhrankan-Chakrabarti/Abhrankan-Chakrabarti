@@ -111,6 +111,11 @@ The study of ancient civilizations reveals the rich and varied tapestry of human
 
 The Golden Ratio, often denoted by the Greek letter φ (phi), is a special number approximately equal to 1.618033988749895. This ratio has fascinated mathematicians, artists, and architects for centuries due to its unique properties and its frequent appearance in nature and human-made structures.
 
+### [The History of Mathematical Notation](https://abhrankan-chakrabarti.github.io/2024/07/21/the-history-of-mathematical-notation.html)
+*Date: July 21, 2024*
+
+Mathematical notation has evolved over millennia, reflecting the changing needs and understanding of mathematical concepts. The symbols and methods used to express mathematical ideas have greatly influenced how these ideas are developed, taught, and understood.
+
 <!-- Add more blog posts as needed -->
 
 ### 📚 Highlighted Projects:
