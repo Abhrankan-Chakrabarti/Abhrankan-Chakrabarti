@@ -106,6 +106,11 @@ Astronomy, the study of celestial objects and phenomena, has fascinated humans f
 
 The study of ancient civilizations reveals the rich and varied tapestry of human history. These civilizations laid the foundations for modern society through their innovations in governance, technology, and culture. This section delves into some of the most influential ancient civilizations.
 
+### [The Golden Ratio: A Mathematical Marvel](https://abhrankan-chakrabarti.github.io/2024/07/21/the-golden-ratio.html)
+*Date: July 21, 2024*
+
+The Golden Ratio, often denoted by the Greek letter φ (phi), is a special number approximately equal to 1.618033988749895. This ratio has fascinated mathematicians, artists, and architects for centuries due to its unique properties and its frequent appearance in nature and human-made structures.
+
 <!-- Add more blog posts as needed -->
 
 ### 📚 Highlighted Projects:
