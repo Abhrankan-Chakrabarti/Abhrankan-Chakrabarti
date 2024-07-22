@@ -120,24 +120,121 @@ Mathematical notation has evolved over millennia, reflecting the changing needs 
 
 ### 📚 Highlighted Projects:
 
-- **[Code Runner](https://github.com/Abhrankan-Chakrabarti/code-runner)**: A web-based tool for running JavaScript code directly in your browser. `JavaScript`, `code-runner`, `web-application`, `browser-tool`
-- **[Hangman](https://github.com/Abhrankan-Chakrabarti/hangman)**: A collection of Hangman game implementations: GUI with Python and Tkinter, command-line versions for Python 2 and 3, and a web-based version using HTML, CSS, and JavaScript. `game`, `hangman`, `Python`, `Tkinter`, `HTML`, `CSS`, `JavaScript`
-- **[Mass](https://github.com/Abhrankan-Chakrabarti/mass)**: An incremental game where you build a solar system by generating mass and buying planets. Implemented with HTML, CSS, and JavaScript. `game`, `incremental-game`, `HTML`, `CSS`, `JavaScript`, `solar-system`
-- **[Whack a Mole Game](https://github.com/Abhrankan-Chakrabarti/Whack-a-Mole-Game)**: A simple Whack-a-Mole game implemented using HTML, CSS, and JavaScript. `game`, `whack-a-mole`, `HTML`, `CSS`, `JavaScript`
-- **[Click Button Game](https://github.com/Abhrankan-Chakrabarti/ClickButtonGame)**: A simple, fun web game where players click a button as many times as possible within a set time limit. The game is implemented using HTML, CSS, and JavaScript. It’s an excellent project for beginners to practice their web development skills. `game`, `click-button-game`, `HTML`, `CSS`, `JavaScript`, `beginner-project`
-- **[Graphing Calculator](https://github.com/Abhrankan-Chakrabarti/GraphingCalculator)**: This repository contains a web-based graphing calculator implemented using HTML, JavaScript, and D3.js. The calculator allows users to plot various mathematical functions in real-time and visualize them on an interactive graph. `calculator`, `graphing`, `JavaScript`, `D3.js`, `HTML`, `math`
-- **[LocalNotes](https://github.com/Abhrankan-Chakrabarti/local-notes)**: A web-app for creating and managing notes locally on your device. `LocalNotes`, `note-taking`, `web-app`, `JavaScript`, `HTML`, `CSS`
-- **[SoundScape](https://github.com/Abhrankan-Chakrabarti/SoundScape)**: A web-app that provides a soothing sound environment for relaxation and focus. `SoundScape`, `web-app`, `JavaScript`, `HTML`, `CSS`, `relaxation`, `focus`
-- **[Interactive Constellation Viewer](https://github.com/Abhrankan-Chakrabarti/interactive-constellation-viewer)**: A web-based application for exploring and visualizing constellations in an interactive environment. `constellations`, `web-app`, `JavaScript`, `HTML`, `CSS`, `astronomy`
-- **[Catalan π Algorithm](https://github.com/Abhrankan-Chakrabarti/pi-calculation-with-catalan-numbers)**: This repository contains a Python script that calculates the digits of π (pi) using a novel algorithm based on Catalan numbers and fixed-point arithmetic. The algorithm efficiently computes the digits of π by leveraging the properties of Catalan numbers, making it a unique and effective method for high-precision calculations. `π`, `pi-calculation`, `Catalan-numbers`, `Python`, `fixed-point-arithmetic`, `math`
-- **[Almost Isosceles Pythagorean Triples Optimizer](https://github.com/Abhrankan-Chakrabarti/almost-isosceles-pythagorean-triples)**: A deep dive into a unique mathematical challenge, blending algorithmic efficiency with the elegance of number theory. `math`, `Pythagorean-triples`, `number-theory`, `algorithm`
-- **[Interactive Matrix Calculator](https://github.com/Abhrankan-Chakrabarti/Interactive-Matrix-Calculator)**: Simplifying complex matrix operations with an intuitive and user-friendly interface. `calculator`, `matrix-operations`, `interactive`, `user-friendly`
-- **[Complex Calculator](https://github.com/Abhrankan-Chakrabarti/ComplexCalculator)**: Navigating the realm of complex numbers with precision and ease. `calculator`, `complex-numbers`, `precision`, `math`
-- **[Java Math Utils](https://github.com/Abhrankan-Chakrabarti/java-math-utils)**: A collection of utility functions in Java that serve as the backbone for various mathematical computations. `Java`, `math-utils`, `utility-functions`
-- **[Llama_CPP Chatbot](https://github.com/Abhrankan-Chakrabarti/llama_cpp_chatbot)**: Interactive Python chatbot powered by the `llama_cpp` library for text generation, offering customizable responses based on a user-provided GGUF model file. `chatbot`, `text-generation`, `Python`, `llama_cpp`, `AI`
-- **[Cryptify](https://github.com/Abhrankan-Chakrabarti/Cryptify)**: A powerful encryption tool that secures your data using advanced cryptographic algorithms. This project highlights my expertise in cybersecurity and encryption technologies. `encryption`, `cryptography`, `security`, `data-protection`, `cybersecurity`
-- **[DOB_Facts_Calculator](https://github.com/Abhrankan-Chakrabarti/DOB_Facts_Calculator)**: Discover interesting facts about any date of birth with this Python-based calculator. `date-of-birth`, `facts-calculator`, `Python`, `numerical-methods`, `date-algorithms`
-- **[sum-of-squares-calculator](https://github.com/Abhrankan-Chakrabarti/sum-of-squares-calculator)**: A Python tool for calculating the sum of squares of integers, useful for mathematical computations and analysis. `math`, `sum-of-squares`, `Python`, `numerical-calculations`
+- **[Code Runner](https://github.com/Abhrankan-Chakrabarti/code-runner)**: A web-based tool for running JavaScript code directly in your browser.
+  - `JavaScript`
+  - `code-runner`
+  - `web-application`
+  - `browser-tool`
+
+- **[Hangman](https://github.com/Abhrankan-Chakrabarti/hangman)**: A collection of Hangman game implementations: GUI with Python and Tkinter, command-line versions for Python 2 and 3, and a web-based version using HTML, CSS, and JavaScript.
+  - `game`
+  - `hangman`
+  - `Python`
+  - `Tkinter`
+  - `HTML`
+  - `CSS`
+  - `JavaScript`
+
+- **[Mass](https://github.com/Abhrankan-Chakrabarti/mass)**: An incremental game where you build a solar system by generating mass and buying planets. Implemented with HTML, CSS, and JavaScript.
+  - `game`
+  - `incremental-game`
+  - `HTML`
+  - `CSS`
+  - `JavaScript`
+  - `solar-system`
+
+- **[Whack a Mole Game](https://github.com/Abhrankan-Chakrabarti/Whack-a-Mole-Game)**: A simple Whack-a-Mole game implemented using HTML, CSS, and JavaScript.
+  - `game`
+  - `whack-a-mole`
+  - `HTML`
+  - `CSS`
+  - `JavaScript`
+
+- **[Click Button Game](https://github.com/Abhrankan-Chakrabarti/ClickButtonGame)**: A simple, fun web game where players click a button as many times as possible within a set time limit. The game is implemented using HTML, CSS, and JavaScript. It’s an excellent project for beginners to practice their web development skills.
+  - `game`
+  - `click-button-game`
+  - `HTML`
+  - `CSS`
+  - `JavaScript`
+  - `beginner-project`
+
+- **[Graphing Calculator](https://github.com/Abhrankan-Chakrabarti/GraphingCalculator)**: This repository contains a web-based graphing calculator implemented using HTML, JavaScript, and D3.js. The calculator allows users to plot various mathematical functions in real-time and visualize them on an interactive graph.
+  - `calculator`
+  - `graphing`
+  - `JavaScript`
+  - `D3.js`
+  - `HTML`
+  - `math`
+
+- **[LocalNotes](https://github.com/Abhrankan-Chakrabarti/local-notes)**: A web-app for creating and managing notes locally on your device.
+  - `LocalNotes`
+  - `note-taking`
+  - `web-app`
+  - `JavaScript`
+  - `HTML`
+  - `CSS`
+
+- **[SoundScape](https://github.com/Abhrankan-Chakrabarti/SoundScape)**: A web-app that provides a soothing sound environment for relaxation and focus.
+  - `SoundScape`
+  - `web-app`
+  - `JavaScript`
+  - `HTML`
+  - `CSS`
+  - `relaxation`
+  - `focus`
+
+- **[Interactive Constellation Viewer](https://github.com/Abhrankan-Chakrabarti/Interactive-Constellation-Viewer)**: A web-based application for exploring and visualizing constellations in an interactive environment.
+  - `constellations`
+  - `web-app`
+  - `JavaScript`
+  - `HTML`
+  - `CSS`
+  - `astronomy`
+
+- **[Catalan π Algorithm](https://github.com/Abhrankan-Chakrabarti/pi-calculation-with-catalan-numbers)**: This repository contains a Python script that calculates the digits of π (pi) using a novel algorithm based on Catalan numbers and fixed-point arithmetic. The algorithm efficiently computes the digits of π by leveraging the properties of Catalan numbers, making it a unique and effective method for high-precision calculations.
+  - `π`
+  - `pi-calculation`
+  - `Catalan-numbers`
+  - `Python`
+  - `fixed-point-arithmetic`
+  - `math`
+
+- **[Almost Isosceles Pythagorean Triples Optimizer](https://github.com/Abhrankan-Chakrabarti/almost-isosceles-pythagorean-triples)**: A deep dive into a unique mathematical challenge, blending algorithmic efficiency with the elegance of number theory.
+  - `math`
+  - `Pythagorean-triples`
+  - `number-theory`
+  - `algorithm`
+
+- **[Interactive Matrix Calculator](https://github.com/Abhrankan-Chakrabarti/Interactive-Matrix-Calculator)**: Simplifying complex matrix operations with an intuitive and user-friendly interface.
+  - `calculator`
+  - `matrix-operations`
+  - `interactive`
+  - `user-friendly`
+
+- **[Complex Calculator](https://github.com/Abhrankan-Chakrabarti/ComplexCalculator)**: Navigating the realm of complex numbers with precision and ease.
+  - `calculator`
+  - `complex-numbers`
+  - `precision`
+  - `math`
+
+- **[Java Math Utils](https://github.com/Abhrankan-Chakrabarti/java-math-utils)**: A collection of utility functions in Java that serve as the backbone for various mathematical computations.
+  - `Java`
+  - `math-utils`
+  - `utility-functions`
+
+- **[Llama_CPP Chatbot](https://github.com/Abhrankan-Chakrabarti/llama_cpp_chatbot)**: Interactive Python chatbot powered by the `llama_cpp` library for text generation, offering customizable responses based on a user-provided GGUF model file.
+  - `chatbot`
+  - `text-generation`
+  - `Python`
+  - `llama_cpp`
+  - `AI`
+
+- **[Cryptify](https://github.com/Abhrankan-Chakrabarti/Cryptify)**: A powerful encryption tool that secures your data using advanced cryptographic algorithms. This project highlights my expertise in cybersecurity and encryption technologies.
+  - `encryption`
+  - `cryptography`
+  - `security`
+  - `data-protection`
+  - `cybersecurity`
 
 ## 🛠️ Skills
 
