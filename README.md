@@ -222,12 +222,12 @@ Mathematical notation has evolved over millennia, reflecting the changing needs 
   - `math-utils`
   - `utility-functions`
 
-- **[Llama_CPP Chatbot](https://github.com/Abhrankan-Chakrabarti/llama_cpp_chatbot)**: Interactive Python chatbot powered by the `llama_cpp` library for text generation, offering customizable responses based on a user-provided GGUF model file.
-  - `chatbot`
-  - `text-generation`
-  - `Python`
-  - `llama_cpp`
-  - `AI`
+- **[LlamaInteract](https://github.com/Abhrankan-Chakrabarti/LlamaInteract)**: An interactive AI platform with both terminal and web-based interfaces for real-time model interactions, featuring dynamic model integration and immediate feedback streaming. Developed by *The Vanguards*.
+  - `ai`
+  - `nlp`
+  - `interactive-cli`
+  - `web-app`
+  - `real-time-streaming`
 
 - **[Cryptify](https://github.com/Abhrankan-Chakrabarti/Cryptify)**: A powerful encryption tool that secures your data using advanced cryptographic algorithms. This project highlights my expertise in cybersecurity and encryption technologies.
   - `encryption`
