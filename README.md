@@ -236,6 +236,19 @@ Mathematical notation has evolved over millennia, reflecting the changing needs 
   - `data-protection`
   - `cybersecurity`
 
+- **[DOB_Facts_Calculator](https://github.com/Abhrankan-Chakrabarti/DOB_Facts_Calculator)**: Discover interesting facts about any date of birth with this Python-based calculator.
+  - `date-of-birth`
+  - `facts-calculator`
+  - `Python`
+  - `numerical-methods`
+  - `date-algorithms`
+
+- **[sum-of-squares-calculator](https://github.com/Abhrankan-Chakrabarti/sum-of-squares-calculator)**: A Python tool for calculating the sum of squares of integers, useful for mathematical computations and analysis.
+  - `math`
+  - `sum-of-squares`
+  - `Python`
+  - `numerical-calculations`
+
 ## 🛠️ Skills
 
 - C/C++
