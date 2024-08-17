@@ -222,12 +222,12 @@ Mathematical notation has evolved over millennia, reflecting the changing needs 
   - `math-utils`
   - `utility-functions`
 
-- **[GeminiWeb](https://github.com/Abhrankan-Chakrabarti/GeminiWeb)**: A dedicated web app for seamless interaction with the Gemini model, offering real-time AI-powered text generation and responses.
-  - `gemini-model`
-  - `web-application`
-  - `ai-interaction`
-  - `real-time`
-  - `natural-language-processing`
+- **[GeminiFusion](https://github.com/Abhrankan-Chakrabarti/GeminiFusion)**: A powerful platform that seamlessly integrates Gemini Pro and Gemini Pro Vision, enabling advanced text and visual processing capabilities in a unified interface. Ideal for projects requiring robust AI-driven analysis and interaction.
+  - `gemini-pro`
+  - `gemini-pro-vision`
+  - `ai-integration`
+  - `multimodal-processing`
+  - `text-and-vision`
 
 - **[Cryptify](https://github.com/Abhrankan-Chakrabarti/Cryptify)**: A powerful encryption tool that secures your data using advanced cryptographic algorithms. This project highlights my expertise in cybersecurity and encryption technologies.
   - `encryption`
