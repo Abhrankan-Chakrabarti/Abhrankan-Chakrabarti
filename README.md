@@ -222,12 +222,12 @@ Mathematical notation has evolved over millennia, reflecting the changing needs 
   - `math-utils`
   - `utility-functions`
 
-- **[LlamaInteract](https://github.com/Abhrankan-Chakrabarti/LlamaInteract)**: An interactive AI platform with both terminal and web-based interfaces for real-time model interactions, featuring dynamic model integration and immediate feedback streaming. Developed by *The Vanguards*.
-  - `ai`
-  - `nlp`
-  - `interactive-cli`
-  - `web-app`
-  - `real-time-streaming`
+- **[GeminiWeb](https://github.com/Abhrankan-Chakrabarti/GeminiWeb)**: A dedicated web app for seamless interaction with the Gemini model, offering real-time AI-powered text generation and responses.
+  - `gemini-model`
+  - `web-application`
+  - `ai-interaction`
+  - `real-time`
+  - `natural-language-processing`
 
 - **[Cryptify](https://github.com/Abhrankan-Chakrabarti/Cryptify)**: A powerful encryption tool that secures your data using advanced cryptographic algorithms. This project highlights my expertise in cybersecurity and encryption technologies.
   - `encryption`
