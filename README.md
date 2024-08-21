@@ -222,12 +222,12 @@ Mathematical notation has evolved over millennia, reflecting the changing needs 
   - `math-utils`
   - `utility-functions`
 
-- **[GeminiFusion](https://github.com/Abhrankan-Chakrabarti/GeminiFusion)**: A powerful platform that seamlessly integrates Gemini Pro and Gemini Pro Vision, enabling advanced text and visual processing capabilities in a unified interface. Ideal for projects requiring robust AI-driven analysis and interaction.
-  - `gemini-pro`
-  - `gemini-pro-vision`
-  - `ai-integration`
-  - `multimodal-processing`
-  - `text-and-vision`
+- **[VisionaryAI (formerly GeminiFusion)](https://github.com/Abhrankan-Chakrabarti/GeminiFusion)**: A versatile web application that leverages advanced AI models, including Gemini Pro Vision, DALL-E 3, and Stable Diffusion XL, to provide three main features: Chatbot Interaction, Image Captioning, and Text-to-Image Generation.
+  - `stable-diffusion-xl`
+  - `dall-e-3`
+  - `image-captioning`
+  - `ai-chatbot`
+  - `generative-ai`
 
 - **[Cryptify](https://github.com/Abhrankan-Chakrabarti/Cryptify)**: A powerful encryption tool that secures your data using advanced cryptographic algorithms. This project highlights my expertise in cybersecurity and encryption technologies.
   - `encryption`
