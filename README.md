@@ -222,7 +222,7 @@ Mathematical notation has evolved over millennia, reflecting the changing needs 
   - `math-utils`
   - `utility-functions`
 
-- **[VisionaryAI (formerly GeminiFusion)](https://github.com/Abhrankan-Chakrabarti/GeminiFusion)**: A versatile web application that leverages advanced AI models, including Gemini Pro Vision, DALL-E 3, and Stable Diffusion XL, to provide three main features: Chatbot Interaction, Image Captioning, and Text-to-Image Generation.
+- **[VisionaryAI (formerly GeminiFusion)](https://github.com/Abhrankan-Chakrabarti/GeminiFusion)**: A versatile web application that leverages advanced AI models, including Gemini Flash, DALL-E 3, and Stable Diffusion XL, to provide three main features: Chatbot Interaction, Image Captioning, and Text-to-Image Generation.
   - `stable-diffusion-xl`
   - `dall-e-3`
   - `image-captioning`
