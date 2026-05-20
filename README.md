@@ -15,8 +15,12 @@
     <img src="https://img.shields.io/badge/Projects-Open%20Source-blue?style=for-the-badge" />
   </a>
 
-  <a href="https://abhrankan-chakrabarti.github.io">
+  <a href="https://abhrankan.dpdns.org">
     <img src="https://img.shields.io/badge/Blog-Mathematics%20%26%20Algorithms-black?style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/Abhrankan-Chakrabarti/Abhrankan-Chakrabarti/raw/main/Abhrankan_Chakrabarti_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-Download%20PDF-red?style=for-the-badge&logo=adobe-acrobat-reader" />
   </a>
 </p>
 
@@ -82,16 +86,15 @@ A dynamic graphing and visualization tool for mathematical functions and computa
 
 # ✍️ Articles & Writing
 
-## 🧮 [Calculating π with Catalan Numbers](https://abhrankan-chakrabarti.github.io/mathematics/algorithms/2024/06/21/calculating-pi)
+## 🧮 [Calculating π with Catalan Numbers](https://abhrankan.dpdns.org/mathematics/algorithms/2024/06/21/calculating-pi)
 
-## 📐 [Almost Isosceles Pythagorean Triples](https://abhrankan-chakrabarti.github.io/mathematics/algorithms/2024/07/03/pythagorean-triples-exploration)
+## 📐 [Almost Isosceles Pythagorean Triples](https://abhrankan.dpdns.org/mathematics/algorithms/2024/07/03/pythagorean-triples-exploration)
 
-## 📚 [The Golden Ratio](https://abhrankan-chakrabarti.github.io/2024/07/21/the-golden-ratio.html)
+## 📚 [The Golden Ratio](https://abhrankan.dpdns.org/2024/07/21/the-golden-ratio.html)
 
-## 🔐 [History of Cryptography](https://abhrankan-chakrabarti.github.io/2024/07/10/history-of-cryptography.html)
+## 🔐 [History of Cryptography](https://abhrankan.dpdns.org/2024/07/10/history-of-cryptography.html)
 
-➡️ Explore more writings:  
-https://abhrankan-chakrabarti.github.io
+➡️ Explore more writings: [abhrankan.dpdns.org](https://abhrankan.dpdns.org)
 
 ---
 
@@ -169,7 +172,7 @@ https://abhrankan-chakrabarti.github.io
 
 <p align="center">
 
-<a href="https://abhrankan.w3spaces.com">🌐 Website</a> •
+<a href="https://abhrankan.dpdns.org">🌐 Website</a> •
 <a href="https://www.linkedin.com/in/abhrankan-chakrabarti-159460214/">LinkedIn</a> •
 <a href="https://twitter.com/AbhrankanC">Twitter/X</a> •
 <a href="mailto:abhrankan@gmail.com">Email</a>
@@ -180,7 +183,7 @@ https://abhrankan-chakrabarti.github.io
 
 <div align="center">
 
-### “Mathematics reveals its secrets only to those who approach it with pure love.”  
+### "Mathematics reveals its secrets only to those who approach it with pure love."  
 — Archimedes
 
 </div>
