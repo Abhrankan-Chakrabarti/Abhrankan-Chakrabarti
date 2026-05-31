@@ -190,6 +190,13 @@ A dynamic graphing and visualization tool for mathematical functions and computa
 
 ---
 
+# 🌐 Other Identities
+
+- [abhrankan](https://github.com/abhrankan) — Tor hidden services, ARGs
+- [foxhackerzdevs](https://github.com/foxhackerzdevs) — Security tools
+
+---
+
 <div align="center">
 
 © 2026 Abhrankan Chakrabarti
