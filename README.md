@@ -78,6 +78,18 @@ A cryptography-focused project exploring encryption methods and secure computati
 
 ---
 
+## 🖥️ [Winternship 2025 Case Studies](https://github.com/Abhrankan-Chakrabarti/Internship_caseStudies)
+
+Full MERN stack training — TypeScript, React (Vite), MongoDB (ACID transactions), and Express.js REST APIs with MVC architecture and design patterns.
+
+---
+
+## 🦙 [LlamaInteract](https://github.com/Abhrankan-Chakrabarti/LlamaInteract)
+
+Local large language model interaction system built using llama.cpp for efficient on-device inference.
+
+---
+
 ## 📊 [Interactive Graphing Calculator](https://github.com/Abhrankan-Chakrabarti/GraphingCalculator)
 
 A dynamic graphing and visualization tool for mathematical functions and computational analysis.
@@ -102,18 +114,26 @@ A dynamic graphing and visualization tool for mathematical functions and computa
 
 ## Languages
 
-- C
-- C++
-- Java
-- Python
-- JavaScript
+- C, C++, Java, Python, TypeScript, JavaScript
 
 ---
 
-## Web Technologies
+## Web & Backend
 
-- HTML
-- CSS
+- HTML, CSS, React (Vite), Node.js, Express.js, REST APIs
+
+---
+
+## Databases
+
+- MongoDB (aggregation pipelines, ACID transactions)
+
+---
+
+## AI / ML
+
+- NumPy, Pandas, scikit-learn
+- Gemini Pro Vision, DALL-E 3, Stable Diffusion XL, llama.cpp
 
 ---
 
@@ -202,3 +222,4 @@ A dynamic graphing and visualization tool for mathematical functions and computa
 © 2026 Abhrankan Chakrabarti
 
 </div>
+
