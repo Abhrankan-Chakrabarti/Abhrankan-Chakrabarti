@@ -32,11 +32,11 @@
 
 I am a student deeply interested in:
 
-- Advanced numerical methods  
-- Algorithm design and optimization  
-- Computational mathematics  
-- Cryptography and number theory  
-- Scientific computing and mathematical research  
+- Advanced numerical methods
+- Algorithm design and optimization
+- Computational mathematics
+- Cryptography and number theory
+- Scientific computing and mathematical research
 
 I enjoy building mathematically elegant solutions through code and exploring ideas that bridge theory with computation.
 
@@ -44,11 +44,11 @@ I enjoy building mathematically elegant solutions through code and exploring ide
 
 # 🔬 Current Focus
 
-- High-precision mathematical computing  
-- Research-oriented problem solving  
-- Python-based numerical experimentation  
-- Efficient algorithmic implementations  
-- Computational exploration of mathematical structures  
+- High-precision mathematical computing
+- Research-oriented problem solving
+- Python-based numerical experimentation
+- Efficient algorithmic implementations
+- Computational exploration of mathematical structures
 
 ---
 
@@ -114,26 +114,29 @@ A dynamic graphing and visualization tool for mathematical functions and computa
 
 ## Languages
 
-- C, C++, Java, Python, TypeScript, JavaScript
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,typescript,javascript" />
+</p>
 
 ---
 
 ## Web & Backend
 
-- HTML, CSS, React (Vite), Node.js, Express.js, REST APIs
-
----
-
-## Databases
-
-- MongoDB (aggregation pipelines, ACID transactions)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb" />
+</p>
 
 ---
 
 ## AI / ML
 
-- NumPy, Pandas, scikit-learn
-- Gemini Pro Vision, DALL-E 3, Stable Diffusion XL, llama.cpp
+- NumPy
+- Pandas
+- scikit-learn
+- llama.cpp
+- Gemini Pro Vision
+- Stable Diffusion XL
+- DALL·E 3
 
 ---
 
@@ -183,7 +186,14 @@ A dynamic graphing and visualization tool for mathematical functions and computa
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhrankan-Chakrabarti/Abhrankan-Chakrabarti/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Abhrankan-Chakrabarti/Abhrankan-Chakrabarti/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Abhrankan-Chakrabarti/Abhrankan-Chakrabarti/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/Abhrankan-Chakrabarti/Abhrankan-Chakrabarti/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
@@ -191,19 +201,18 @@ A dynamic graphing and visualization tool for mathematical functions and computa
 # 📫 Connect With Me
 
 <p align="center">
-
-<a href="https://abhrankan.dpdns.org">🌐 Website</a> •
-<a href="https://www.linkedin.com/in/abhrankan-chakrabarti-159460214/">LinkedIn</a> •
-<a href="https://twitter.com/AbhrankanC">Twitter/X</a> •
-<a href="mailto:abhrankan@gmail.com">Email</a>
-
+  <a href="https://abhrankan.dpdns.org">🌐 Website</a> •
+  <a href="https://www.linkedin.com/in/abhrankan-chakrabarti-159460214/">LinkedIn</a> •
+  <a href="https://twitter.com/AbhrankanC">Twitter/X</a> •
+  <a href="mailto:abhrankan@gmail.com">Email</a>
 </p>
 
 ---
 
 <div align="center">
 
-### "Mathematics reveals its secrets only to those who approach it with pure love."  
+### "Mathematics reveals its secrets only to those who approach it with pure love."
+
 — Archimedes
 
 </div>
@@ -212,8 +221,30 @@ A dynamic graphing and visualization tool for mathematical functions and computa
 
 # 🌐 Other Identities
 
-- [abhrankan](https://github.com/abhrankan) — Tor hidden services, ARGs
-- [foxhackerzdevs](https://github.com/foxhackerzdevs) — Security tools
+| Account | Focus |
+|----------|--------|
+| [abhrankan](https://github.com/abhrankan) | Tor hidden services, ARGs, experimental projects |
+| [foxhackerzdevs](https://github.com/foxhackerzdevs) | Security research and tools |
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Abhrankan-Chakrabarti&theme=tokyonight&row=1&column=7" />
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Abhrankan-Chakrabarti&style=for-the-badge&color=blue" />
+
+</div>
 
 ---
 
@@ -222,4 +253,3 @@ A dynamic graphing and visualization tool for mathematical functions and computa
 © 2026 Abhrankan Chakrabarti
 
 </div>
-
